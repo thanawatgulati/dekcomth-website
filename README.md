@@ -1,30 +1,3 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app).
-
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/zeit/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on ZEIT Now
-
-The easiest way to deploy your Next.js app is to use the [ZEIT Now Platform](https://zeit.co/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<h4 align="center"><img src="https://scontent.fbkk12-4.fna.fbcdn.net/v/t1.0-9/p960x960/102816557_261951918481758_9165902196158496768_o.png?_nc_cat=103&_nc_sid=85a577&_nc_oc=AQmUMCfKX9T-k8FBO3rp6d3Zza8-uZ6ElCIovxcM6LJbPcLTjhKEndVnEgFnmM99Dis&_nc_ht=scontent.fbkk12-4.fna&oh=3ca231c1725f8dd749fe0222227363c6&oe=5EFF862E" width="200"/></span>
+<h2 align="center">@เด็กคอมสายหื่น</h4>
+<p align="center">แหล่งรวมเด็กคอมสายหื่น | Dekcom สายหื่น Community</p>
